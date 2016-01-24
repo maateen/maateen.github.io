@@ -1,2 +1,2 @@
 # ugcoder.github.io
-Linux System Administrator and Python Programmer
+I’m Maateen, mainly an Amateur Blogger. I love Linux and believe in the spirit of Open-Source software. So Linux System Administration is one of my favorite subjects. Another subject, I like very much, is Programming. Perhaps for this reason, I try to get myself lost off and on in the immense beauty of programming. In short, that’s all about me.
