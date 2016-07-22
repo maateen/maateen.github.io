@@ -1,9 +1,11 @@
 # My Projects
 
+----------
+
 ###**[Battery Monitor](http://lab.maateen.me/battery-monitor/)**
 Battery Monitor is a utility tool developed on Python3 and PyGtk3. It will notify user about charging, discharging and not charging state of the battery on Linux (Surely if battery is present).
 
-###**[Easy-LEMP](http://maateen.github.io/easy-lemp)**
+###**[Easy-LEMP](http://lab.maateen.me/easy-lemp)**
 Easy-LEMP is a Python3 script. EasyLEMP will help you to install LEMP (Nginx, PHP-FPM, MariaDB) on Linux along with phpMyAdmin with just four commands. Currently it only supports Ubuntu Desktop Edition. Support for Ubuntu Server Edition is now under development. Please, try to contribute if you can.
 
 ###**[Mama](http://lab.maateen.me/mama/)**
@@ -11,16 +13,18 @@ The aim of this project is to let you use [Microsoft powered Bing Speech Recogni
 The mother project, [google2ubuntu](https://github.com/benoitfragit/google2ubuntu), is a tool that **Franquet Benoit** started 2 years ago, written in Python2. Unfortunately, he was not able to do what he wanted because of a lack of time. Perhaps, he used Google Web Speech API which isn't free anymore. 
 So I am moving the project to the next level using [Microsoft powered Bing Speech Recognition API](https://www.microsoft.com/cognitive-services/en-us/speech-api) by renaming it to **Mama**.
 
-###**[Nipy](http://maateen.github.io/nipy)**
+###**[Nipy](http://lab.maateen.me/nipy)**
 Nipy is a Python3 blog engine based on Flask micro framework. I was thinking to make a full-functional Blog engine like Wordpress but unfortunately I am shutting down this project due to some personal issues. If you feel happy to take this project to the next level, you're most welcome. I lost the main project due to a Hard-Drive lost. I have gained this one from my bitbucket, has a lots of bugs. Please fix them, I have fixed them almost all of them but lost due to a unwanted HDD fail. Also, in this project, I have done less comment, actually trying to make my code readable even without comment. Don't know I have passed or failed.
 
-###**[Py-URL-Shortener](http://maateen.github.io/py-url-shortener)**
+###**[Py-URL-Shortener](http://lab.maateen.me/py-url-shortener)**
 Py-URL-Shortener is a Python powered Flask app implementing a technique in which a Uniform Resource Locator (URL) has been made substantially shorter in length and still direct to the required page. This is achieved by using a redirect on a domain name that is short, which links to the web page that has a long URL.
 
-###**[Wordpress-Bangla-Pack](http://maateen.github.io/wordpress-bangla-pack)**
+###**[Wordpress-Bangla-Pack](http://lab.maateen.me/wordpress-bangla-pack)**
 Wordpress Bangla Pack is a simple, smart & easy plugin by which you can localize your Wordpress site in Bangla. It means that your whole site will appear in Bangla. Here I have used the best translation of each phrases & sentences to provide the best plugin to its users. If you ever think about a plugin to translate your Wordpress site in Bangla, you should not choose any other way except Wordpress Bangla Pack. Happy Blogging!!!
 
 #My Contributions
+
+----------
 
 ###**[Avro](https://github.com/maateen/avro)**
 Avro phonetic implementation for Linux in IBus. Licensed under Mozilla Public License 1.1 ("MPL"), an open source/free software license.
@@ -28,4 +32,7 @@ Avro phonetic implementation for Linux in IBus. Licensed under Mozilla Public Li
 Simple Linux x11 utility to autocomplete words in the GUI. Uses [Rofi](https://davedavenport.github.io/rofi/) for a simple popup menu. Uses the [English Open Word List](http://dreamsteep.com/projects/the-english-open-word-list.html) for a basic English dictionary, plus a Bangla dictionary ported from [ibus-avro](https:github.com/sarim/ibus-avro). For other languages, see the [Other languages](#other-languages) section. You can define custom words, see [the note](#custom-words). Licensed under the [GNU GPL 3](https://www.gnu.org/licenses/gpl.txt). TextSuggest is free as in freedom.
 
 #Contact Me
+
+----------
+
 Feel free to email me to provide some feedback on my projects, give me suggestions for new projects, or to just say hello at **[maateen@outlook.com](mailto:maateen@outlook.com)**.
