@@ -26,7 +26,7 @@ Wordpress Bangla Pack is a simple, smart & easy plugin by which you can localize
 
 ----------
 
-###**[Avro](https://github.com/maateen/avro)**
+###**[Avro](http://lab.maateen.me/avro/)**
 Avro phonetic implementation for Linux in IBus. Licensed under Mozilla Public License 1.1 ("MPL"), an open source/free software license.
 ###**[Text Suggest](https://github.com/maateen/TextSuggestBangla)**
 Simple Linux x11 utility to autocomplete words in the GUI. Uses [Rofi](https://davedavenport.github.io/rofi/) for a simple popup menu. Uses the [English Open Word List](http://dreamsteep.com/projects/the-english-open-word-list.html) for a basic English dictionary, plus a Bangla dictionary ported from [ibus-avro](https:github.com/sarim/ibus-avro). For other languages, see the [Other languages](#other-languages) section. You can define custom words, see [the note](#custom-words). Licensed under the [GNU GPL 3](https://www.gnu.org/licenses/gpl.txt). TextSuggest is free as in freedom.
